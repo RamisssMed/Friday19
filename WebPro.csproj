@@ -80,8 +80,9 @@
     <Content Include="Admin\MinisterServies.aspx" />
     <Content Include="Admin\WebForm1.aspx" />
     <Content Include="Admin\XMLFile1.xml" />
-    <Content Include="index.aspx" />
     <Content Include="index.html" />
+    <Content Include="first2.html" />
+    <Content Include="index.aspx" />
     <Content Include="Register.aspx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>

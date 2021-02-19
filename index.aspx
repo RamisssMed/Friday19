@@ -27,6 +27,10 @@
                 <div class="col-md-12" style="margin-top:0px;">  
                     <img src="Admin/Img/D.jpg"  width="100%" height="250px"  />
                      
+                  
+
+                  <center class="auto-style1">   <a href="Admin/Home.aspx" > go to other page </a> </center> 
+
                      <center class="auto-style1">تسجيل الدخول </center> 
 
             
