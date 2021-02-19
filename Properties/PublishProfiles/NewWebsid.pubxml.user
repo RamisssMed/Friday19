@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Mohammedl\Desktop\web</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin/ComePage/Information.ascx">
+      <publishTime>08/11/2020 00:39:19</publishTime>
+    </File>
+    <File Include="Admin/ComePage/officeMinistry.ascx">
+      <publishTime>02/15/2021 21:28:09</publishTime>
+    </File>
+    <File Include="Admin/Control/Category.ascx">
+      <publishTime>08/11/2020 20:30:47</publishTime>
+    </File>
+    <File Include="Admin/Control/CategoryAdd.ascx">
+      <publishTime>08/11/2020 18:49:23</publishTime>
+    </File>
+    <File Include="Admin/Control/Search.ascx">
+      <publishTime>08/11/2020 01:02:19</publishTime>
+    </File>
+    <File Include="Admin/Control/Servies.ascx">
+      <publishTime>08/11/2020 17:20:29</publishTime>
+    </File>
+    <File Include="Admin/ControlMaster.Master">
+      <publishTime>02/15/2021 22:58:18</publishTime>
+    </File>
+    <File Include="Admin/Css/bootstrap.css">
+      <publishTime>08/10/2020 23:22:06</publishTime>
+    </File>
+    <File Include="Admin/Css/hover.css">
+      <publishTime>08/10/2020 23:22:06</publishTime>
+    </File>
+    <File Include="Admin/Css/login-box.css">
+      <publishTime>08/10/2020 23:22:06</publishTime>
+    </File>
+    <File Include="Admin/Css/styletry.css">
+      <publishTime>08/10/2020 23:22:06</publishTime>
+    </File>
+    <File Include="Admin/End.aspx">
+      <publishTime>08/11/2020 17:30:34</publishTime>
+    </File>
+    <File Include="Admin/Home.aspx">
+      <publishTime>02/15/2021 22:58:18</publishTime>
+    </File>
+    <File Include="Admin/Img/D.jpg">
+      <publishTime>08/10/2020 23:22:05</publishTime>
+    </File>
+    <File Include="Admin/Img/Footer.jpg">
+      <publishTime>08/10/2020 23:22:05</publishTime>
+    </File>
+    <File Include="Admin/Img/P10.JPG">
+      <publishTime>08/10/2020 23:22:06</publishTime>
+    </File>
+    <File Include="Admin/Img/P11.JPG">
+      <publishTime>08/10/2020 23:22:06</publishTime>
+    </File>
+    <File Include="Admin/Img/P12.JPG">
+      <publishTime>08/10/2020 23:22:06</publishTime>
+    </File>
+    <File Include="Admin/MinisterCategory.aspx">
+      <publishTime>08/11/2020 18:52:24</publishTime>
+    </File>
+    <File Include="Admin/MinisterCategoryAdd.aspx">
+      <publishTime>08/11/2020 17:31:51</publishTime>
+    </File>
+    <File Include="Admin/MinisterSearch.aspx">
+      <publishTime>08/11/2020 17:31:51</publishTime>
+    </File>
+    <File Include="Admin/MinisterServies.aspx">
+      <publishTime>08/11/2020 17:31:51</publishTime>
+    </File>
+    <File Include="Admin/Web.config">
+      <publishTime>02/17/2021 22:25:49</publishTime>
+    </File>
+    <File Include="Admin/WebForm1.aspx">
+      <publishTime>08/13/2020 23:01:04</publishTime>
+    </File>
+    <File Include="Admin/XMLFile1.xml">
+      <publishTime>08/13/2020 22:56:08</publishTime>
+    </File>
+    <File Include="bin/WebPro.dll">
+      <publishTime>02/17/2021 22:25:48</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>02/17/2021 22:01:18</publishTime>
+    </File>
+    <File Include="Register.aspx">
+      <publishTime>08/15/2020 00:54:44</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/17/2021 22:25:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
