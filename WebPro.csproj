@@ -82,7 +82,7 @@
     <Content Include="Admin\XMLFile1.xml" />
     <Content Include="index.html" />
     <Content Include="first2.html" />
-    <Content Include="index.aspx" />
+    <Content Include="login.aspx" />
     <Content Include="Register.aspx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
@@ -184,12 +184,12 @@
     <Compile Include="Admin\WebForm1.aspx.designer.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>
     </Compile>
-    <Compile Include="index.aspx.cs">
-      <DependentUpon>index.aspx</DependentUpon>
+    <Compile Include="login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="index.aspx.designer.cs">
-      <DependentUpon>index.aspx</DependentUpon>
+    <Compile Include="login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Register.aspx.cs">
